@@ -1,2 +1,2 @@
 # 1sm
-Lycee 1 spe math
+Lycee --> 1 --> Spé
